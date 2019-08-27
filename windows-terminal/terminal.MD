@@ -9,3 +9,12 @@
 "backgroundImageStrechMode" : "fill",
 ```
 >If you’re using a GIF file, you may want to change the “fill” to “uniformToFill” instead. 
+
+>Switch color schemes
+```
+Campbell 
+One Half Dark 
+One Half Light
+Solarized Dark
+Solarized Light
+```
